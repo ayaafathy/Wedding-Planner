@@ -1,2 +1,2 @@
 # Wedding Planner
- Year 2 OOP Course team project
+ Year 2: OOP Course Group project
